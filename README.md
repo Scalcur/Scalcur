@@ -1,6 +1,6 @@
 ## Hi Everyone!
 
-I'm just another Russian programmer who's trying to achieve some success in programming.
+I'm just another Russian programmer who's trying to achieve some success in developing.
 
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-blue?style=plastic&logo=python&logoColor=yellow)
